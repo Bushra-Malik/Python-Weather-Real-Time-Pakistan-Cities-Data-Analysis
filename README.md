@@ -37,7 +37,7 @@ Welcome to the **Weather Real-Time Pakistan Cities Data Analysis** project! This
 - Visualizes relationships between variables such as temperature vs. humidity and cloudiness vs. wind speed.
 
 ## Dataset
-The dataset used for this project is sourced from Kaggle, specifically from the "Population of Pakistan" dataset. You can access it [here](https://www.kaggle.com/datasets/mabdullahsajid/population-of-pakistan-dataset). This dataset provides valuable demographic information that can enhance the analysis of weather data across various cities in Pakistan.
+The dataaset used for this project is sourced from Kaggle, specifically from the "Population of Pakistan" dataset. You can access it [here](https://www.kaggle.com/datasets/mabdullahsajid/population-of-pakistan-dataset). This dataset provides valuable demographic information that can enhance the analysis of weather data across various cities in Pakistan.
 
 ## Technologies Used
 - Python
