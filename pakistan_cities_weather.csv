@@ -1,0 +1,148 @@
+Country,Province,City,Temperature,Feels_Like,Min_Temp,Max_Temp,Humidity,Pressure,Wind_Speed,Cloudiness,Description,Longitude,Latitude,Sunrise,Sunset,Error
+Pakistan,Sindh,Karachi,27.9,30.35,27.9,27.9,69.0,1004.0,5.14,75.0,Broken clouds,67.0822,24.9056,06:17 AM,06:36 PM,
+Pakistan,Sindh,Hyderabad,26.73,28.62,26.73,26.73,73.0,1007.0,4.12,40.0,Scattered clouds,78.4744,17.3753,05:34 AM,05:48 PM,
+Pakistan,Sindh,Sukkur,35.77,35.14,35.77,35.77,27.0,1000.0,4.1,0.0,Clear sky,68.8574,27.7052,06:09 AM,06:29 PM,
+Pakistan,Sindh,Larkana,34.92,34.36,34.92,34.92,29.0,1000.0,4.26,0.0,Clear sky,68.2141,27.5551,06:12 AM,06:32 PM,
+,,Mirpurkhas,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Sindh,Nawabshah,33.34,35.83,33.34,33.34,46.0,1001.0,8.32,0.0,Clear sky,68.4096,26.2483,06:12 AM,06:31 PM,
+Pakistan,Sindh,Jacobabad,35.13,34.45,35.13,35.13,28.0,1000.0,5.05,19.0,Few clouds,68.4388,28.281,06:11 AM,06:31 PM,
+Pakistan,Sindh,Dadu,36.56,36.27,36.56,36.56,27.0,1000.0,3.4,0.0,Clear sky,67.7763,26.7329,06:14 AM,06:33 PM,
+Pakistan,Sindh,Thatta,28.59,30.63,28.59,28.59,62.0,1004.0,6.87,55.0,Broken clouds,67.9235,24.7475,06:14 AM,06:32 PM,
+Pakistan,Sindh,Badin,30.08,32.39,30.08,30.08,57.0,1004.0,7.02,1.0,Clear sky,68.8384,24.656,06:10 AM,06:29 PM,
+Pakistan,Sindh,Shikarpur,34.66,33.82,34.66,34.66,28.0,1000.0,4.17,48.0,Scattered clouds,68.6379,27.9571,06:10 AM,06:30 PM,
+Pakistan,Sindh,Khairpur,35.56,35.05,35.56,35.56,28.0,1000.0,4.02,0.0,Clear sky,68.7617,27.5295,06:10 AM,06:30 PM,
+Pakistan,Sindh,Tando Adam,31.45,33.6,31.45,31.45,51.0,1002.0,7.06,0.0,Clear sky,68.661,25.7637,06:11 AM,06:30 PM,
+Pakistan,Sindh,Tando Allahyar,30.95,33.35,30.95,30.95,54.0,1003.0,7.86,5.0,Clear sky,68.7192,25.4626,06:11 AM,06:29 PM,
+Pakistan,Sindh,Sanghar,32.21,34.27,32.21,32.21,48.0,1002.0,6.28,0.0,Clear sky,68.9481,26.0466,06:10 AM,06:28 PM,
+Pakistan,Sindh,Umerkot,23.55,24.02,23.55,23.55,79.0,1005.0,3.81,100.0,Overcast clouds,82.2061,19.6667,05:18 AM,05:34 PM,
+Pakistan,Sindh,Jamshoro,30.84,33.37,30.84,30.84,55.0,1003.0,8.31,3.0,Clear sky,68.2903,25.4394,06:12 AM,06:31 PM,
+Pakistan,Sindh,Matiari,31.73,34.11,31.73,31.73,51.0,1002.0,7.98,2.0,Clear sky,68.4467,25.5961,06:12 AM,06:30 PM,
+Pakistan,Sindh,Ghotki,33.96,33.59,33.96,33.96,32.0,1001.0,3.24,1.0,Clear sky,69.3161,28.006,06:08 AM,06:28 PM,
+Pakistan,Sindh,Qambar,34.58,33.71,34.58,34.58,28.0,1000.0,3.48,0.0,Clear sky,67.9997,27.5892,06:13 AM,06:33 PM,
+Pakistan,Sindh,Shahdadkot,34.49,32.71,34.49,34.49,22.0,1000.0,0.73,1.0,Clear sky,67.9055,27.8477,06:13 AM,06:33 PM,
+,,Tharparkar,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Sindh,Hala,31.36,33.66,31.36,31.36,52.0,1002.0,8.77,0.0,Clear sky,68.4227,25.8131,06:12 AM,06:30 PM,
+,,Naushahro Feroze,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Sindh,Samaro,31.15,33.5,31.15,31.15,53.0,1003.0,6.38,0.0,Clear sky,69.3965,25.2815,06:08 AM,06:26 PM,
+,,Chachro,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Sindh,Pano Aqil,34.69,34.23,34.69,34.69,30.0,1001.0,3.49,0.0,Clear sky,69.1116,27.8569,06:08 AM,06:28 PM,
+Pakistan,Sindh,Pithoro,31.87,34.13,31.87,31.87,50.0,1003.0,6.68,0.0,Clear sky,69.3833,25.5167,06:08 AM,06:27 PM,
+Pakistan,Sindh,Pir Jo Goth,35.07,34.57,35.07,35.07,29.0,1000.0,3.79,2.0,Clear sky,68.6179,27.591,06:10 AM,06:30 PM,
+Pakistan,Sindh,Kotri,30.6,33.14,30.6,30.6,56.0,1003.0,8.24,4.0,Clear sky,68.3122,25.366,06:12 AM,06:31 PM,
+,,Mirpur Bathoro,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Sindh,Daro,20.92,21.65,20.92,20.92,99.0,1015.0,0.77,100.0,Moderate rain,-9.569,8.5185,11:28 AM,11:38 PM,
+Pakistan,Sindh,Daur,34.71,36.13,34.71,34.71,38.0,1000.0,6.21,0.0,Clear sky,68.3192,26.4583,06:12 AM,06:31 PM,
+Pakistan,Sindh,Kandiaro,35.64,35.17,35.64,35.64,28.0,1000.0,4.15,0.0,Clear sky,68.2091,27.0601,06:12 AM,06:32 PM,
+Pakistan,Sindh,Shahpur Chakar,32.39,34.59,32.39,32.39,48.0,1001.0,7.6,0.0,Clear sky,68.6509,26.155,06:11 AM,06:30 PM,
+Pakistan,Sindh,Lakha,27.9,28.61,27.9,27.9,53.0,1002.0,1.59,4.0,Clear sky,75.4445,30.64,05:42 AM,06:04 PM,
+Pakistan,Sindh,Sann,33.62,36.36,33.62,33.62,46.0,1001.0,8.78,0.0,Clear sky,68.1378,26.0418,06:13 AM,06:32 PM,
+Pakistan,Sindh,Khipro,32.74,34.98,32.74,32.74,47.0,1002.0,6.98,0.0,Clear sky,69.3772,25.8285,06:08 AM,06:27 PM,
+Pakistan,Punjab,Lahore,31.99,36.46,31.06,31.99,58.0,1001.0,2.06,0.0,Smoke,74.3436,31.5497,05:46 AM,06:09 PM,
+Pakistan,Punjab,Faisalabad,33.44,32.55,33.44,33.44,30.0,1001.0,3.68,0.0,Clear sky,73.0833,31.4167,05:51 AM,06:14 PM,
+Pakistan,Punjab,Rawalpindi,29.02,31.54,29.02,29.02,63.0,1003.0,2.4,0.0,Clear sky,73.0679,33.6007,05:51 AM,06:14 PM,
+Pakistan,Punjab,Multan,32.94,38.67,32.94,32.94,58.0,1001.0,2.06,40.0,Smoke,71.4753,30.1956,05:58 AM,06:20 PM,
+Pakistan,Punjab,Gujranwala,32.03,34.42,32.03,32.03,50.0,1001.0,2.35,0.0,Clear sky,74.1883,32.1617,05:47 AM,06:09 PM,
+Pakistan,Punjab,Sialkot,29.94,35.38,29.94,31.9,72.0,1002.0,1.34,0.0,Smoke,74.5431,32.5101,05:45 AM,06:08 PM,
+Pakistan,Punjab,Bahawalpur,33.5,32.79,33.5,33.5,31.0,1001.0,3.49,2.0,Clear sky,71.6833,29.4,05:58 AM,06:19 PM,
+,,Rahim Yar Khan,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Punjab,Sargodha,33.81,32.72,33.81,33.81,28.0,1000.0,2.1,0.0,Clear sky,72.6711,32.0836,05:53 AM,06:15 PM,
+Pakistan,Punjab,Sheikhupura,32.03,33.08,32.03,32.03,44.0,1001.0,2.86,0.0,Clear sky,73.9783,31.7131,05:48 AM,06:10 PM,
+Pakistan,Punjab,Jhang,29.23,31.43,29.23,29.23,60.0,1003.0,1.21,0.0,Clear sky,72.6963,33.6748,05:52 AM,06:16 PM,
+Pakistan,Punjab,Kasur,32.06,32.74,32.06,32.06,42.0,1001.0,2.36,0.0,Clear sky,74.4467,31.1156,05:46 AM,06:08 PM,
+Pakistan,Punjab,Okara,31.14,30.42,31.14,31.14,35.0,1001.0,2.24,0.0,Clear sky,73.4458,30.8081,05:50 AM,06:12 PM,
+Pakistan,Punjab,Sahiwal,31.65,31.17,31.65,31.65,36.0,1001.0,0.9,0.0,Clear sky,73.1,30.6667,05:52 AM,06:13 PM,
+Pakistan,Punjab,Dera Ghazi Khan,34.86,34.47,34.86,34.86,30.0,1001.0,3.61,9.0,Clear sky,70.6348,30.0561,06:02 AM,06:23 PM,
+Pakistan,Punjab,Toba Tek Singh,32.8,32.36,32.8,32.8,34.0,1001.0,2.59,0.0,Clear sky,72.4827,30.9743,05:54 AM,06:16 PM,
+Pakistan,Punjab,Chiniot,33.26,31.91,33.26,33.26,27.0,1001.0,2.69,0.0,Clear sky,72.9789,31.72,05:52 AM,06:14 PM,
+Pakistan,Punjab,Narowal,30.94,35.22,30.94,30.94,62.0,1002.0,1.48,0.0,Clear sky,74.8833,32.1,05:44 AM,06:07 PM,
+,,Jehlum,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Punjab,Mianwali,35.64,35.39,35.64,35.64,29.0,1000.0,2.21,2.0,Clear sky,71.5264,32.5741,05:57 AM,06:20 PM,
+Pakistan,Punjab,Khushab,33.3,33.04,33.3,33.3,34.0,1001.0,1.61,6.0,Clear sky,72.3525,32.2967,05:54 AM,06:17 PM,
+Pakistan,Punjab,Layyah,34.89,33.77,34.89,34.89,26.0,1000.0,2.93,1.0,Clear sky,70.939,30.9613,06:00 AM,06:22 PM,
+Pakistan,Punjab,Bhakkar,35.76,35.13,35.76,35.76,27.0,1000.0,2.82,0.0,Clear sky,71.0657,31.6253,05:59 AM,06:22 PM,
+Pakistan,Punjab,Hafizabad,29.11,29.93,29.11,29.11,51.0,1001.0,3.44,0.0,Clear sky,73.6854,32.0679,05:49 AM,06:11 PM,
+Pakistan,Punjab,Muridke,32.01,34.38,32.01,32.01,50.0,1001.0,3.34,0.0,Clear sky,74.2617,31.8025,05:47 AM,06:09 PM,
+Pakistan,Punjab,Jaranwala,31.59,30.58,31.59,31.59,32.0,1001.0,3.11,0.0,Clear sky,73.4333,31.3333,05:50 AM,06:12 PM,
+Pakistan,Punjab,Pattoki,31.82,30.85,31.82,31.82,32.0,1001.0,1.82,0.0,Clear sky,73.85,31.0167,05:48 AM,06:10 PM,
+Pakistan,Punjab,Arifwala,31.63,31.44,31.63,31.63,38.0,1001.0,0.61,0.0,Clear sky,73.0735,30.294,05:52 AM,06:13 PM,
+Pakistan,Punjab,Burewala,31.59,31.54,31.59,31.59,39.0,1001.0,1.64,0.0,Clear sky,72.65,30.1667,05:54 AM,06:15 PM,
+Pakistan,Punjab,Pakpattan,31.81,31.37,31.81,31.81,36.0,1001.0,2.03,0.0,Clear sky,73.3866,30.341,05:51 AM,06:12 PM,
+Pakistan,Punjab,Kahror Pakka,32.27,31.82,32.27,32.27,35.0,1001.0,0.94,0.0,Clear sky,71.9167,29.6238,05:57 AM,06:18 PM,
+Pakistan,Punjab,Kot Addu,34.32,33.72,34.32,34.32,30.0,1000.0,1.96,0.0,Clear sky,70.9671,30.4692,06:00 AM,06:22 PM,
+Pakistan,Punjab,Depalpur,25.22,26.17,25.22,25.22,91.0,1007.0,3.43,8.0,Clear sky,75.55,22.85,05:44 AM,06:01 PM,
+Pakistan,Punjab,Samundri,32.5,31.81,32.5,32.5,33.0,1001.0,2.43,0.0,Clear sky,72.9588,31.0651,05:52 AM,06:14 PM,
+,,Jalalpur Bhattian,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Punjab,Khanewal,31.63,32.1,31.63,31.63,42.0,1001.0,3.5,9.0,Clear sky,71.9333,30.3,05:56 AM,06:18 PM,
+Pakistan,Punjab,Shorkot,36.13,35.65,36.13,36.13,27.0,1000.0,2.39,0.0,Clear sky,70.8774,31.9099,06:00 AM,06:23 PM,
+Pakistan,Khyber Pakhtunkhwa,Peshawar,31.08,32.36,31.08,31.08,48.0,1002.0,2.06,65.0,Haze,71.5785,34.008,05:57 AM,06:20 PM,
+Pakistan,Khyber Pakhtunkhwa,Mardan,27.96,28.4,27.96,27.96,50.0,1002.0,2.17,10.0,Clear sky,72.0525,34.2019,05:55 AM,06:19 PM,
+Pakistan,Khyber Pakhtunkhwa,Kohat,30.04,29.98,30.04,30.04,42.0,1002.0,2.17,8.0,Clear sky,71.4493,33.582,05:57 AM,06:21 PM,
+,,Swat,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Khyber Pakhtunkhwa,Dera Ismail Khan,35.95,35.39,35.95,35.95,27.0,1000.0,2.57,0.0,Clear sky,70.9024,31.8327,06:00 AM,06:22 PM,
+Pakistan,Khyber Pakhtunkhwa,Bannu,29.81,28.89,29.81,29.81,34.0,1002.0,2.89,4.0,Clear sky,70.6027,32.9854,06:01 AM,06:24 PM,
+Pakistan,Khyber Pakhtunkhwa,Charsadda,31.34,31.85,31.34,31.34,43.0,1002.0,3.81,47.0,Scattered clouds,71.7317,34.1435,05:56 AM,06:20 PM,
+Pakistan,Khyber Pakhtunkhwa,Nowshera,31.38,32.45,31.38,31.38,46.0,1002.0,3.42,1.0,Clear sky,71.9977,34.0058,05:55 AM,06:19 PM,
+Pakistan,Khyber Pakhtunkhwa,Haripur,28.75,31.06,28.75,28.75,63.0,1004.0,0.9,0.0,Clear sky,72.9341,34.0,05:51 AM,06:15 PM,
+Pakistan,Khyber Pakhtunkhwa,Abbottabad,18.51,18.37,18.51,18.51,75.0,1006.0,1.07,0.0,Clear sky,73.2145,34.1469,05:50 AM,06:14 PM,
+Pakistan,Khyber Pakhtunkhwa,Mansehra,20.42,20.48,20.42,20.42,75.0,1006.0,0.52,0.0,Clear sky,73.2,34.3333,05:50 AM,06:14 PM,
+,,Batkhela,,,,,,,,,,,,,,Error fetching data: 404
+,,Khyber,,,,,,,,,,,,,,Error fetching data: 404
+,,Buner,,,,,,,,,,,,,,Error fetching data: 404
+,,Shangla,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Khyber Pakhtunkhwa,Lakki Marwat,35.09,34.03,35.09,35.09,26.0,1001.0,3.04,20.0,Few clouds,70.9114,32.6079,06:00 AM,06:23 PM,
+Pakistan,Khyber Pakhtunkhwa,Hangu,21.02,20.56,21.02,21.02,53.0,1015.0,0.62,2.0,Clear sky,117.7892,39.2489,02:50 AM,03:18 PM,
+Pakistan,Khyber Pakhtunkhwa,Tank,36.0,35.46,36.0,36.0,27.0,1000.0,2.93,0.0,Clear sky,70.3793,32.2217,06:02 AM,06:25 PM,
+Pakistan,Khyber Pakhtunkhwa,Dir,18.3,18.04,18.3,18.3,71.0,1010.0,1.24,17.0,Few clouds,71.8756,35.2058,05:55 AM,06:20 PM,
+Pakistan,Khyber Pakhtunkhwa,Chitral,22.02,21.32,22.02,22.02,40.0,1009.0,4.3,98.0,Overcast clouds,71.7858,35.8462,05:55 AM,06:20 PM,
+Pakistan,Khyber Pakhtunkhwa,Upper Dir,18.3,18.04,18.3,18.3,71.0,1010.0,1.24,17.0,Few clouds,71.8756,35.2058,05:55 AM,06:20 PM,
+,,Lower Dir,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Khyber Pakhtunkhwa,Swabi,27.15,27.9,27.15,27.15,55.0,1003.0,1.65,0.0,Clear sky,72.4699,34.1199,05:53 AM,06:17 PM,
+,,Kurram,,,,,,,,,,,,,,Error fetching data: 404
+,,Orakzai,,,,,,,,,,,,,,Error fetching data: 404
+,,North Waziristan,,,,,,,,,,,,,,Error fetching data: 404
+,,South Waziristan,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Khyber Pakhtunkhwa,Pabbi,31.38,31.74,31.38,31.38,42.0,1002.0,3.68,5.0,Clear sky,71.7989,34.0106,05:56 AM,06:20 PM,
+,,Takht Bhai,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Khyber Pakhtunkhwa,Pindi Gheb,32.99,33.35,32.99,32.99,38.0,1002.0,2.14,0.0,Clear sky,72.2661,33.2402,05:54 AM,06:17 PM,
+Pakistan,Khyber Pakhtunkhwa,Jand,33.35,33.3,33.35,33.35,35.0,1001.0,1.35,2.0,Clear sky,72.0193,33.4299,05:55 AM,06:18 PM,
+Pakistan,Khyber Pakhtunkhwa,Shergarh,25.99,25.99,25.99,25.99,84.0,1002.0,2.43,3.0,Clear sky,79.35,28.65,05:27 AM,05:48 PM,
+,,Jamrud,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Khyber Pakhtunkhwa,Bara,31.9,35.7,31.9,31.9,56.0,1010.0,3.33,37.0,Scattered clouds,10.7288,10.3744,10:06 AM,10:17 PM,
+Pakistan,Khyber Pakhtunkhwa,Landi Kotal,26.33,26.33,26.33,26.33,51.0,1004.0,1.52,68.0,Broken clouds,71.1467,34.1017,05:58 AM,06:22 PM,
+Pakistan,Balochistan,Quetta,26.22,26.22,26.22,26.22,16.0,1007.0,3.56,0.0,Clear sky,67.0097,30.199,06:16 AM,06:37 PM,
+Pakistan,Balochistan,Gwadar,27.19,30.27,27.19,27.19,81.0,1004.0,5.72,1.0,Clear sky,62.3254,25.1216,06:36 AM,06:55 PM,
+Pakistan,Balochistan,Hub,13.3,12.2,12.48,15.03,58.0,1021.0,5.66,100.0,Overcast clouds,11.8833,49.8,09:48 AM,10:26 PM,
+Pakistan,Balochistan,Zhob,29.11,27.5,29.11,29.11,18.0,1004.0,5.28,0.0,Clear sky,69.4481,31.3411,06:06 AM,06:28 PM,
+Pakistan,Balochistan,Khuzdar,30.83,28.84,30.83,30.83,17.0,1004.0,2.54,9.0,Clear sky,66.6434,27.7384,06:18 AM,06:38 PM,
+,,Lasbela,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Balochistan,Dera Murad Jamali,36.33,35.5,36.33,36.33,25.0,1000.0,4.06,0.0,Clear sky,68.2231,28.5466,06:12 AM,06:32 PM,
+Pakistan,Balochistan,Mastung,25.96,25.96,25.96,25.96,15.0,1007.0,4.89,0.0,Clear sky,66.845,29.7994,06:17 AM,06:38 PM,
+Pakistan,Balochistan,Chaman,28.39,26.9,28.39,28.39,12.0,1005.0,2.57,0.0,Clear sky,66.4512,30.9236,06:18 AM,06:40 PM,
+Pakistan,Balochistan,Pishin,27.3,26.13,27.3,27.3,13.0,1005.0,3.14,0.0,Clear sky,66.9961,30.5803,06:16 AM,06:38 PM,
+Pakistan,Balochistan,Loralai,27.28,26.52,27.28,27.28,28.0,1005.0,5.41,0.0,Clear sky,68.598,30.3705,06:10 AM,06:31 PM,
+,,Jaffarabad,,,,,,,,,,,,,,Error fetching data: 404
+,,Killa Abdullah,,,,,,,,,,,,,,Error fetching data: 404
+,,Killa Saifullah,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Balochistan,Nushki,31.58,29.41,31.58,31.58,12.0,1004.0,2.45,0.0,Clear sky,66.0215,29.5542,06:20 AM,06:41 PM,
+Pakistan,Balochistan,Dalbandin,34.16,31.61,34.16,34.16,11.0,1002.0,2.7,16.0,Few clouds,64.4101,28.8947,06:27 AM,06:47 PM,
+Pakistan,Balochistan,Ziarat,18.72,17.48,18.72,18.72,32.0,1010.0,1.96,0.0,Clear sky,67.7282,30.3823,06:13 AM,06:35 PM,
+Pakistan,Balochistan,Qila Saifullah,27.26,26.44,27.26,27.26,26.0,1005.0,6.93,0.0,Clear sky,68.3599,30.7013,06:11 AM,06:32 PM,
+Pakistan,Balochistan,Sibi,37.95,36.82,37.95,37.95,21.0,1000.0,3.34,0.0,Clear sky,67.8764,29.5448,06:13 AM,06:34 PM,
+,,Jhal Magsi,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Balochistan,Dera Bugti,33.77,32.82,33.77,33.77,29.0,1003.0,2.81,0.0,Clear sky,69.151,29.0307,06:08 AM,06:29 PM,
+Pakistan,Balochistan,Kharan,34.51,31.92,34.51,34.51,11.0,1002.0,2.16,0.0,Clear sky,65.4167,28.5833,06:23 AM,06:43 PM,
+Pakistan,Balochistan,Panjgur,32.01,30.42,32.01,32.01,26.0,1003.0,5.73,6.0,Clear sky,64.0903,26.9645,06:29 AM,06:48 PM,
+Pakistan,Balochistan,Awaran,31.82,33.16,31.82,31.82,46.0,1003.0,7.99,0.0,Clear sky,65.2312,26.4555,06:24 AM,06:43 PM,
+,,Ghanche,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Balochistan,Garmab,27.48,26.35,27.48,27.48,18.0,1004.0,6.99,60.0,Broken clouds,47.037,34.8233,07:34 AM,07:59 PM,
+Pakistan,Balochistan,Barkhan,28.68,27.79,28.68,28.68,33.0,1005.0,5.59,60.0,Broken clouds,69.5256,29.8977,06:06 AM,06:27 PM,
+Pakistan,Balochistan,Harnai,30.02,29.01,30.02,30.02,33.0,1005.0,4.04,0.0,Clear sky,67.9374,30.1005,06:12 AM,06:34 PM,
+,,Musa Khel,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Balochistan,Rakhni,27.77,27.47,27.77,27.77,40.0,1006.0,4.02,4.0,Clear sky,69.9251,30.0446,06:04 AM,06:26 PM,
+,,Kallat,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Balochistan,Bela,28.23,31.41,28.23,28.23,72.0,1002.0,1.09,100.0,Overcast clouds,81.9833,25.9333,05:17 AM,05:36 PM,
+Pakistan,Balochistan,Nasirabad,27.09,28.2,27.09,27.09,60.0,1005.0,2.34,0.0,Clear sky,74.7333,26.3,05:46 AM,06:05 PM,
+,,Tump,,,,,,,,,,,,,,Error fetching data: 404
+Pakistan,Balochistan,Kahan,28.62,27.14,28.62,28.62,18.0,1018.0,7.79,51.0,Broken clouds,33.8196,51.445,08:20 AM,08:59 PM,
+Pakistan,Balochistan,Shahdadkot,34.49,32.71,34.49,34.49,22.0,1000.0,0.73,1.0,Clear sky,67.9055,27.8477,06:13 AM,06:33 PM,
+Pakistan,Balochistan,Ormara,27.1,30.27,27.1,27.1,83.0,1004.0,6.57,0.0,Clear sky,64.6357,25.2088,06:27 AM,06:45 PM,
